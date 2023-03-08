@@ -37,9 +37,5 @@ The performance of the MedFusionGAN was compared with seven state-of-the-art tra
 ### Query
 All implementations are done by Mojtaba Safari. For any query please contact us for more information.
 
-```python
------@ulaval.ca
-
-```
 
 
